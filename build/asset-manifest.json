@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.7d45be56.chunk.css",
+    "main.js": "/React-App/static/js/main.2c687fd2.chunk.js",
+    "main.js.map": "/React-App/static/js/main.2c687fd2.chunk.js.map",
+    "runtime~main.js": "/React-App/static/js/runtime~main.a4b1c3b3.js",
+    "runtime~main.js.map": "/React-App/static/js/runtime~main.a4b1c3b3.js.map",
+    "static/js/2.e6afe4b2.chunk.js": "/React-App/static/js/2.e6afe4b2.chunk.js",
+    "static/js/2.e6afe4b2.chunk.js.map": "/React-App/static/js/2.e6afe4b2.chunk.js.map",
+    "index.html": "/React-App/index.html",
+    "precache-manifest.31080103c4e23598cb50914030a6ff96.js": "/React-App/precache-manifest.31080103c4e23598cb50914030a6ff96.js",
+    "service-worker.js": "/React-App/service-worker.js",
+    "static/css/main.7d45be56.chunk.css.map": "/React-App/static/css/main.7d45be56.chunk.css.map",
+    "static/media/Instagram.png": "/React-App/static/media/Instagram.11c7f375.png",
+    "static/media/Mail.png": "/React-App/static/media/Mail.64876c3e.png",
+    "static/media/Adaptive.css": "/React-App/static/media/greybricks.243e59e4.jpg",
+    "static/media/blackgoldframe.png": "/React-App/static/media/blackgoldframe.33a0dbe9.png",
+    "static/media/Panel.css": "/React-App/static/media/colorfulborder.058d3771.png",
+    "static/media/dragon.png": "/React-App/static/media/dragon.81b49480.png",
+    "static/media/dragon2.png": "/React-App/static/media/dragon2.678250a4.png",
+    "static/media/gift-card.jpg": "/React-App/static/media/gift-card.96b04569.jpg",
+    "static/media/handsplatter.png": "/React-App/static/media/handsplatter.158fe975.png",
+    "static/media/portraitborder.png": "/React-App/static/media/portraitborder.4c042e2d.png",
+    "static/media/redheart.png": "/React-App/static/media/redheart.a0e53863.png",
+    "static/media/App.css": "/React-App/static/media/spapic.56d70ffd.jpg",
+    "static/media/storefront.jpeg": "/React-App/static/media/storefront.44eea3dd.jpeg"
+  }
+}

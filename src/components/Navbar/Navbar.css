@@ -1,0 +1,61 @@
+.navbar-wrap {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    justify-content: center;
+    align-content: center;
+    min-width: 960px;
+    opacity: 0.8;
+}
+.navbar {
+    display: flex;
+    margin: auto;
+    height: 10vh;
+    width: 90%;
+    background-color : black;
+    min-height: 8vh;
+    max-height: 10vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    min-width: 680px;
+}
+
+.navbar button {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border: none;
+    height: 100%;
+    width: 19%;
+    min-width: 13%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-family: cursive;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+  }
+  
+  .navbar button:hover {
+    background-color: black;
+    background: -webkit-linear-gradient(white,white,red, white);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+  }
+  .nav-button2:hover {
+    background: -webkit-linear-gradient(green,green,rgb(0, 251, 255), red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
+
+
+  .footer {
+      background-color: black;
+      height: 0vh;
+  }
